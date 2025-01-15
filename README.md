@@ -1,0 +1,1 @@
+A certain number of usernames are registered on the platform, which receive a numerical identifier as a key. The project implements the functionality to obtain information about all users and about one user by the corresponding identifier. The project functionality is implemented using the capabilities of Interface Map.
